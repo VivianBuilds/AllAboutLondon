@@ -27,11 +27,11 @@ p {
   font-size: 16px;
 }
 p {
-  font-family: times;
+  font-family: Verdana;
 }
 .images {
   display: flex;
-  justify-content: midcenter;
+  justify-content: center;
   gap: 5px;
 }
 
