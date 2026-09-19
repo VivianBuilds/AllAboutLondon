@@ -1,0 +1,46 @@
+img {
+  display: block;
+  margin: 0 auto;}
+
+div {text-align: center;}
+
+  h1{
+    text-align: center;}
+  
+  h1 {
+  color: #0856a8;}
+
+h2 {
+  color:#0856a8;
+}
+
+h3 {
+  color: #0856a8;}
+
+body {
+  background-color: #e6f2ff
+}
+
+  p {
+  text-align: center;}
+p {
+  font-size: 16px;
+}
+p {
+  font-family: times;
+}
+.images {
+  display: flex;
+  justify-content: midcenter;
+  gap: 5px;
+}
+
+h1{
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
+  }
+
+li {
+  margin-bottom: 10px;
+}
