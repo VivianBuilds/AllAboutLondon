@@ -53,3 +53,7 @@ p {
   flex-direction: column;
   align-items: center;
 }
+
+.bottom-images img {
+  width: 49%;
+}
