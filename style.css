@@ -6,7 +6,7 @@ img {
 .bottom-images {
   display: flex;
   justify-content: center;
-  gap: 0;
+  gap:10;
 }
 
 .bottom-images img {
